@@ -321,275 +321,125 @@ const partner_logo = [
 
 const showcase = [
   {
-    cover: 'https://pic.imgdb.cn/item/5e774d2e5c56091129d4d34d.jpg',
-    alt: 'KID-E-CATS S1',
-    title: 'KID-E-CATS S1'
-  },
-  {
-    cover: 'https://pic.imgdb.cn/item/5e774d725c56091129d4fff1.jpg',
-    alt: 'KID-E-CATS S2',
-    title: 'KID-E-CATS S2'
-  },
-  {
     cover: 'https://pic.imgdb.cn/item/5e774d895c56091129d50e08.jpg',
     alt: 'The Fixies',
     title: 'The Fixies'
   },
   {
-    cover: 'https://pic.imgdb.cn/item/5e774d9c5c56091129d51c2f.jpg',
+    cover: 'https://pic.imgdb.cn/item/5e774d2e5c56091129d4d34d.jpg',
+    alt: 'KID-E-CATS S1',
+    title: 'KID-E-CATS S1'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/a4eb85b3ce723cf33a58dbb3fe38d912.jpg',
     alt: 'The Fixies Lab',
     title: 'The Fixies Lab'
   },
   {
-    cover: 'https://pic.imgdb.cn/item/5e774da95c56091129d527cc.jpg',
-    alt: 'The Fixies Let\'s Play ',
-  title:'The Fixies Let\'s Play'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774dc45c56091129d54616.jpg',
-	alt: 'Smeshariki S1-S2',
-	title: 'Smeshariki S1-S2'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774dd15c56091129d554c6.jpg',
-	alt: 'Smeshariki S3',
-	title: 'Smeshariki S3'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774ddf5c56091129d5651e.jpg',
-	alt: 'PinCode',
-	title: 'PinCode'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774df45c56091129d57d98.jpg',
-	alt: 'Om Nom Stories',
-	title: 'Om Nom Stories'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e035c56091129d58ce6.jpg',
-	alt: 'Mojicons',
-	title: 'Mojicons'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e115c56091129d59de4.jpg',
-	alt: 'BabyRiki S3',
-	title: 'BabyRiki S3'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e2a5c56091129d5b5a3.jpg',
-	alt: 'Flying Animals',
-	title: 'Flying Animals'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e365c56091129d5c3ce.jpg',
-	alt: 'Kids And Flying Animals',
-	title: 'Kids And Flying Animals'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e465c56091129d5d5ec.jpg',
-	alt: 'Homur And Gumur',
-	title: 'Homur And Gumur'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e525c56091129d5e4ae.jpg',
-	alt: 'Heroes of Envell',
-	title: 'Heroes of Envell'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e625c56091129d5f5ad.jpg',
-	alt: 'Fantasy Patrol',
-	title: 'Fantasy Patrol'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e725c56091129d6085b.jpg',
-	alt: 'Leo & Tig',
-	title: 'Leo & Tig'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e875c56091129d61e8c.jpg',
-	alt: 'Rolando Locomotov',
-	title: 'Rolando Locomotov'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774e965c56091129d62e42.jpg',
-	alt: 'Opposites Interact',
-	title: 'Opposites Interact'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774ea25c56091129d63896.jpg',
-	alt: 'Professor Whysenhower',
-	title: 'Professor Whysenhower'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774eb95c56091129d64e06.jpg',
-	alt: 'Clever Cars S1',
-	title: 'Clever Cars S1'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774ec55c56091129d65cd2.jpg',
-	title: 'Clever Cars S2'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774ed65c56091129d66f88.jpg',
-	alt: 'At the Playground',
-	title: 'At the Playground'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774ee55c56091129d67e07.jpg',
-	alt: 'Leo the truck',
-	title: 'Leo the truck'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774ef45c56091129d68dad.jpg',
-	alt: '4 Cars',
-	title: '4 Cars'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f045c56091129d6a111.jpg',
-	alt: 'Doctor McWheelie S1',
-	title: 'Doctor McWheelie S1'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f115c56091129d6ad97.jpg',
-	alt: 'Doctor McWheelie S2',
-	title: 'Doctor McWheelie S2'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f225c56091129d6bf8f.jpg',
-	alt: 'The Bubbles',
-	title: 'The Bubbles'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f2e5c56091129d6cc7b.jpg',
-	alt: 'Car School S1',
-	title: 'Car School S1'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f385c56091129d6d8a2.jpg',
-	alt: 'Car School S2',
-	title: 'Car School S2'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f4b5c56091129d6ed4c.jpg',
-	alt: 'Rosa Dara',
-	title: 'Rosa Dara'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f5a5c56091129d6fee6.jpg',
-	alt: 'Smarta and Her Magic-Bag S1',
-	title: 'Smarta and Her Magic-Bag S1'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f655c56091129d70a62.jpg',
-	alt: 'Smarta and Her Magic-Bag S2',
-	title: 'Smarta and Her Magic-Bag S2'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f745c56091129d7191f.jpg',
-	alt: 'Robodz',
-	title: 'Robodz'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f855c56091129d72b0a.jpg',
-	alt: 'DollHouse',
-	title: 'DollHouse'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774f935c56091129d73808.jpg',
-	alt: 'HopHop the Owl',
-	title: 'HopHop the Owl'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774fa05c56091129d74458.jpg',
-	alt: 'Sing with Leo',
-	title: 'Sing with Leo'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774faf5c56091129d75558.jpg',
-	alt: 'Funny Clown Videos',
-	title: 'Funny Clown Videos'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774fbb5c56091129d76392.jpg',
-	alt: 'Blaster Castle',
-	title: 'Blaster Castle'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774fc75c56091129d77343.jpg',
-	alt: 'Roboborik',
-	title: 'Roboborik'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774fd35c56091129d78268.jpg',
-	alt: 'Bob The Train',
-	title: 'Bob The Train'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e774fe05c56091129d78fb1.jpg',
-	alt: 'Farmees',
-	title: 'Farmees'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e7750135c56091129d7c4ce.jpg',
-	alt: 'JuniorSquad',
-	title: 'JuniorSquad'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e7750245c56091129d7d540.jpg',
-	alt: 'LittleEddie',
-	title: 'LittleEddie'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/5e77502e5c56091129d7dd1b.jpg',
-	alt: 'Little Tree House',
-	title: 'Little Tree House'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdd0a.jpg',
-	alt: 'Like Nastya',
-	title: 'Like Nastya'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdc8a.jpg',
-	alt: 'Blippi',
-	title: 'Blippi'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdcab.jpg',
-	alt: 'Blippi Wonders',
-	title: 'Blippi Wonders'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd80.jpg',
-	alt: 'T-Rex Ranch',
-	title: 'T-Rex Ranch'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdc57.jpg',
-	alt: 'Beardy Bodo',
-	title: 'Beardy Bodo'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdce9.jpg',
-	alt: 'Dino City',
-	title: 'Dino City'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd5e.jpg',
-	alt: 'The Very Small Creatures',
-	title: 'The Very Small Creatures'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd47.jpg',
-	alt: 'The Epic Adventures of Morph',
-	title: 'The Epic Adventures of Morph'
-},
-{
-	cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd1c.jpg',
-	alt: 'SEALOOK',
-	title: 'SEALOOK'
-},
-
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/0f7a05d590bb4929e2b2df1b252401b9.jpg',
+    alt: 'Mocas',
+    title: 'Mocas'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/bad27bf39f2202c961e3c87dee816d18.jpg',
+    alt: 'Cubic Cat',
+    title: 'Cubic Cat'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/5e774df45c56091129d57d98.jpg',
+    alt: 'Om Nom Stories',
+    title: 'Om Nom Stories'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/16e2a78df6ba3ade39efbb0b870b5466.jpg',
+    alt: 'Masha & Bear',
+    title: 'Masha & Bear'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/0df583c80d5a41f4de48b44be3eeb9c8.jpg',
+    alt: 'Little Tiaras',
+    title: 'Little Tiaras'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdd0a.jpg',
+    alt: 'Like Nastya',
+    title: 'Like Nastya'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/20bbbe583aff081260c791e1c760e396.jpg',
+    alt: 'Mister Max and Miss Katy',
+    title: 'Mister Max and Miss Katy'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd1c.jpg',
+    alt: 'SEALOOK',
+    title: 'SEALOOK'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/f15aaf99070b49e2f60a0377116b0e93.jpg',
+    alt: 'CoComelon',
+    title: 'CoComelon'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdc8a.jpg',
+    alt: 'Blippi',
+    title: 'Blippi'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/642faab8a682492fcc1bdcab.jpg',
+    alt: 'Blippi Wonders',
+    title: 'Blippi Wonders'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd80.jpg',
+    alt: 'T-Rex Ranch',
+    title: 'T-Rex Ranch'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/f96854886474d1fc0f3492215c7c35c5.jpg',
+    alt: 'Cloudbabies',
+    title: 'Cloudbabies'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/5e774fd35c56091129d78268.jpg',
+    alt: 'Bob The Train',
+    title: 'Bob The Train'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/5e774fe05c56091129d78fb1.jpg',
+    alt: 'Farmees',
+    title: 'Farmees'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd5e.jpg',
+    alt: 'The Very Small Creatures',
+    title: 'The Very Small Creatures'
+  },
+  {
+    cover: 'https://pic.imgdb.cn/item/642faab9a682492fcc1bdd47.jpg',
+    alt: 'The Epic Adventures of Morph',
+    title: 'The Epic Adventures of Morph'
+  },
+  {
+    cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/dae2ca9fe90dd861ba7b3615486441b2.jpg',
+    alt: 'Ebb and Flo',
+    title: 'Ebb and Flo'
+  },
+  // {
+  //   cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/9efc0578df2cd7c3469117be6704f0d3.jpg',
+  //   alt: 'Mironins',
+  //   title: 'Mironins'
+  // },
+  // {
+  //   cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/1ac5b6c3dd171068fcaaf6cc83f05f40.jpg',
+  //   alt: 'Beardy Bodo',
+  //   title: 'Beardy Bodo'
+  // },
+  // {
+  //   cover: 'https://oss-crm.bjjoymedia.com/ipproject/poster/0a5bb34d27d82e6ce2a6377c0ee523db.jpg',
+  //   alt: 'Dino City',
+  //   title: 'Dino City'
+  // }
 ]
 
 function clickNav() {
@@ -655,8 +505,8 @@ function clickNav() {
         <div id="AboutUs">
           <h1 class="text-3xl font-bold tracking-tight text-gray-900">About Us</h1>
           <p class="mt-6 leading-8 text-gray-600 text-left">Joy Culture Media (JCM) is an internationally leading children animation and home entertainment IP production, operation and marketing company headquartered in Beijing, China.</p>
-          <p class="mt-6 leading-8 text-gray-600 text-left">Beijing Joy Culture Media Co., Ltd is established in 2016, as a global Intellectual Property licensing company in Beijing that acquires and commercializes children animation IP over the world, discovering new and progressive content that improve the overall quality of children life in China. Up to 2024, the company has cooperate with over 40 animation companies all over the world,exclusively sub-license over 120 IPs in mainland China territory, total length of the animation program is over 1000hours,total views on new media platforms is over 20billion, there are over 100 animated TV series which is very well known among Chinese children has been exclusively distribute by Joy media such as The Fixies, Kid E Cats, Little Tiaras, Like Nastya, Sealook, Be-Be-Bear, Fantasy Patrol, Masha’s Spooky Stories, Masha’s Songs, 4 Cars and Cloud Babies.</p>
-          <p class="mt-6 leading-8 text-gray-600 text-left">Zhejiang Joy Culture Media Co.Ltd is a brand new company registered in 2019 delicate in Chinese original animated TV series production, international co-production and Children TV drama series production, operation and marketing. The first Chinese original animated TV series MOCAS target with 3-5 years old preschooler has launched in market and achieved great positive feedback from the market, the first Children TV drama series The Fixies lab is Joy media first successful case to adopt a foreign children animation IP into a local Chinese children TV drama series, the Fixies Lab S1 completed and launched in Sep 2021 and launched on Tecent video and five children TV channels in China.</p>
+          <p class="mt-6 leading-8 text-gray-600 text-left">Beijing Joy Culture Media Co., Ltd is established in 2016, as a global Intellectual Property licensing company in Beijing that acquires and commercializes children animation IP over the world, discovering new and progressive content that improve the overall quality of children life in China. Up to 2024, the company has cooperate with over 40 animation companies all over the world,exclusively sub-license over 120 IPs in mainland China territory, total length of the animation program is over 1000hours,total views on new media platforms is over 20billion, there are over 100 animated TV series which is very well known among Chinese children has been exclusively distribute by Joy media such as The Fixies, Kid E Cats, CoComelon, Masha & Bear, Blippi, Blippi wonder, T-Rex Ranch, Like Nastya, Sealook, Om Nom Stories, Bob The Train, Farmees, Little Tiaras.</p>
+          <p class="mt-6 leading-8 text-gray-600 text-left">Zhejiang Joy Culture Media Co.Ltd is a brand new company registered in 2019 delicate in Chinese original animated TV series production, international co-production and Children TV drama series production, operation and marketing. The first Chinese original animated TV series MOCAS target with 3-5 years old preschooler has launched in market and achieved great positive feedback from the market, the first Children TV drama series The Fixies lab is Joy media first successful case to adopt a foreign children animation IP into a local Chinese children TV drama series, the Fixies Lab S1 completed and launched in Sep 2021 and launched on Tecent video and five children TV channels in China.Zhejiang Joy Media's original production, the children's program 'Cubic Cat', successfully launched its first season in China, marking a groundbreaking first in the country's children's programming landscape by integrating animation with live-action.</p>
         </div>
       </div>
       <div class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]" aria-hidden="true">
@@ -901,7 +751,7 @@ function clickNav() {
       <div class="mt-16 flow-root">
       </div>
     </div>
-    <ul role="list" class="grid grid-cols-9 gap-x-4 gap-y-4">
+    <ul role="list" class="mx-auto max-w-6xl grid grid-cols-7 gap-x-4 gap-y-4">
       <li v-for="item in showcase" :key="item.cover" class="relative">
         <div class="group block overflow-hidden rounded-md bg-gray-100">
           <img :src="item.cover" :alt="item.alt" :title="item.title" class="w-full pointer-events-none object-cover" />
